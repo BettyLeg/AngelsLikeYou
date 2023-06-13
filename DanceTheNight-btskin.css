@@ -3,7 +3,7 @@
   --background-2:#FBFBFB;
   --background-3:#F4F4F4;
   --background-f:#F3F3F3;
-  --border:1px solid #eee;
+  --border:1px solid #ddd;
   --accent:#BDD69E;
   --color:#999;
 }
@@ -95,6 +95,7 @@
   font-size:14px;
   color:#fff;
 }
+.bt003dn-icontact > a i {color:#fff!important}
 .bt003dn-tramas{
   margin-top:40px;
   display:grid;
